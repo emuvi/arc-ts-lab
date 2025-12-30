@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "main": "./main.js",
   "types": "./main.d.ts",
+  "type": "module",
   "scripts": {
     "test": "node main.js",
     "build": "tsc",

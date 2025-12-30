@@ -6,7 +6,7 @@ export declare class Father {
 export declare class Child extends Father {
     constructor();
 }
-export declare type Options = {
+export type Options = {
     name: string;
 };
 //# sourceMappingURL=main.d.ts.map
